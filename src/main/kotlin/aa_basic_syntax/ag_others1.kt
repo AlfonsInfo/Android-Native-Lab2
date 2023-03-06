@@ -1,4 +1,5 @@
-import aa_basic_syntax.Resource
+package aa_basic_syntax
+
 import java.io.File
 
 fun main() {
@@ -34,6 +35,7 @@ fun main() {
     println(data1)
     println(data2)
 
+    TODO("Mark code as Incomplete")
 
 }
 

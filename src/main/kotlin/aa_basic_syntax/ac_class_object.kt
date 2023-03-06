@@ -1,3 +1,5 @@
+package aa_basic_syntax
+
 fun main() {
     //cara inisialisasi objek disarankan menggunakan val jika tidka pernah di reassign
     val persegi = Persegi(3.0,4.0)

@@ -1,3 +1,5 @@
+package aa_basic_syntax
+
 fun main() {
     //Standard output
     println("Hello World!")
@@ -19,7 +21,7 @@ fun main() {
     print(printSum(2,3)) // kotlin unit
 }
 
-//Function bisa ditaruh didalam maupun diluar main
+//Function bisa ditaruh didalam maupun diluar aa_basic_syntax.Idioms.Idioms.Idioms.Idioms.Idioms.Idioms.Idioms.aa_basic_syntax.main
 fun contentSum2(a : Int, b: Int){
     print(a+b)
 }

@@ -1,3 +1,5 @@
+package aa_basic_syntax
+
 fun main() {
     // ----------------VAL----------------------------------------------------
     //Read-only variable are defined using keyword val

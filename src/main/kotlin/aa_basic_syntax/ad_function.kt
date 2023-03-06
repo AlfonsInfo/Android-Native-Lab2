@@ -1,6 +1,8 @@
+package aa_basic_syntax
+
 fun main() {
 
-    //maxOf(3,4) // fungsi di dalam main bersifat
+    //maxOf(3,4) // fungsi di dalam aa_basic_syntax.Idioms.Idioms.Idioms.Idioms.Idioms.Idioms.Idioms.aa_basic_syntax.main bersifat
     fun maxOf(a: Int, b: Int) = if (a>b) print(a) else print(b)
     maxOf(3,4)
     //fungsi di luar bebas di taruh dimana
